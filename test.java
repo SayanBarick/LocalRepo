@@ -5,6 +5,7 @@ import java.util.*;
 	 {
 		 Scanner sc=new Scanner(System.in);
 		 System.out.println("hello world1123");
+		 System.oyt.println("Hello world2");
 		 
 	 }
  }
